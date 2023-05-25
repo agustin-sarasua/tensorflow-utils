@@ -1,0 +1,46 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Virtual Environment
+.venv/
+.env/
+
+models/*
+data/imdb/*
+
+# Python
+*.pyc
+__pycache__/
+
+# Data
+*.csv
+*.xlsx
+
+# Logs
+*.log
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Editor-specific files
+.vscode/
+*.swp
+*.swo
+
+# macOS specific files
+.DS_Store
+
+# Temporary files
+*.tmp
+
+# Environment-specific files
+.env
+.env.*
+
+# Other
+.idea/
+*.bak
+*.backup
